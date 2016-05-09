@@ -1,0 +1,17 @@
+{
+  "name": "stageprompt",
+  "version": "2.1.0",
+  "description": "JavaScript for tracking user journeys for the Performance Platform",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alphagov/stageprompt.git"
+  },
+  "author": {
+    "name": "Government Digital Service developers",
+    "email": "govuk-dev@digital.cabinet-office.gov.uk"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alphagov/stageprompt/issues"
+  }
+}
